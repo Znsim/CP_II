@@ -1,4 +1,5 @@
 """한글 자모 분류 모델 학습 스크립트.
+-> 수집 데이터 좌표 기반 학습 스크립트
 
 dataset/ 아래의 손 랜드마크 데이터를 읽어 MLPClassifier를 학습하고
 models/ 폴더에 gesture_model.pkl과 label_encoder.pkl을 저장한다.
