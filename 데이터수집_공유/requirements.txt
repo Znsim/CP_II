@@ -1,0 +1,5 @@
+opencv-python
+opencv-contrib-python
+numpy
+mediapipe==0.10.14
+Pillow
